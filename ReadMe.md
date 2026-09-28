@@ -1,0 +1,1 @@
+Материалы курса Computer Vision от Влада Шахуро (YSDA CV Course)
